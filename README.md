@@ -1,6 +1,8 @@
 # Hey there! 👋
 
-My name is Jonathan, and my true love is coding. I'm highly motivated to continuously expand my knowledge, allowing me to adapt quickly to new challenges and technologies. I genuinely enjoy working with people and possess the capability to lead when necessary.
+My true love is coding. 
+I'm highly motivated to continuously expand my knowledge, allowing me to adapt quickly to new challenges and technologies.
+I genuinely enjoy working with people and possess the capability to lead when necessary.
 
 ## Technologies
 
