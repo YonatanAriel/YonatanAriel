@@ -13,6 +13,7 @@ Here are some of the technologies I'm proficient in:
 - JavaScript
 - CSS3
 - SQL
+- MongoDB
 - Cloud Services
 - Git & GitHub
 - REST APIs
