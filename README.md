@@ -55,6 +55,15 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/YonatanAriel/YonatanAriel/output/snake.svg" alt="Snake animation" />
+<img media="(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/YonatanAriel/YonatanAriel/output/snake.svg" alt="Snake animation" />
+<picture>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/YonatanAriel/YonatanAriel/output/github-snake.svg" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YonatanAriel/YonatanAriel/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YonatanAriel/YonatanAriel/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/YonatanAriel/YonatanAriel/output/github-snake.svg" />
+</picture>
 
 ###
