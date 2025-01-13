@@ -56,9 +56,7 @@
 ###
 
 <img media="(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/YonatanAriel/YonatanAriel/output/snake.svg" alt="Snake animation" />
-<picture>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YonatanAriel/YonatanAriel/output/github-snake.svg" />
-</picture>
+
 
  
 ###
